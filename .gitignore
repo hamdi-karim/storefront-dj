@@ -1,0 +1,35 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+*.sqlite3
+
+# Environments
+venv/
+env/
+*.env
+
+# Pyenv
+.python-version
+
+# VS Code
+.vscode/
+
+# Pipenv
+Pipfile.lock
+
+# MyPy
+.mypy_cache/
+
+# pyenv
+.python-version
+
+# macOS
+.DS_Store
+
+# Docker
+docker-compose.override.yml
